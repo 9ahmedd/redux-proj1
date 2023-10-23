@@ -1,0 +1,22 @@
+.sidebar {
+    width: 25%;
+    background-color: #f6f6f6;
+    height: calc(100vh - 63px);
+    padding: 10px;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar li a {
+    display: block;
+    background-color: #f6f6f6;
+    color: gray;
+    padding: 7px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    /* text-align: center; */
+}
